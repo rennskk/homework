@@ -1,0 +1,137 @@
+* {
+  margin: 0;
+  padding: 0;
+  }
+  body{
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-image: url(nebo.jpg);
+
+  }
+  header {
+    background: #131313;
+    margin: 0 auto;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    box-shadow: 3px 3px 6px 0px rgba(0, 0, 0, 0.819);
+    width: 100%;
+  }
+  .am{
+      font-size: 50px;
+     font-family: sans-serif;
+     font-weight: 600;
+     margin-left: 30px;
+     color: white;
+     background: linear-gradient(to right, red, orange, yellow, green, cyan, blue, violet);
+     background-size: 400% 400%;
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     -webkit-animation: rainbow 20s ease infinite;
+     animation: rainbow 20s ease infinite;
+     line-height: 60px;
+  }
+  @-webkit-keyframes rainbow {
+    0% { background-position: 0% 50% }
+    50% { background-position: 100% 50% }
+    100% { background-position: 0% 50% }
+  }
+   
+  @keyframes rainbow {
+    0% { background-position: 0% 50% }
+    50% { background-position: 100% 50% }
+    100% { background-position: 0% 50% }
+  }
+  ul li {
+    display: inline-block;
+    padding-right: 10px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+  }
+  .he{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-family: fantasy;
+    margin-top: 30px;
+    text-align: center;
+    background: linear-gradient(to right, red, orange, yellow, green, cyan, blue, violet);
+     background-size: 400% 400%;
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     -webkit-animation: rainbow 30s ease infinite;
+     animation: rainbow 30s ease infinite;
+     line-height: 60px;
+  }
+  @-webkit-keyframes rainbow {
+    0% { background-position: 0% 50% }
+    50% { background-position: 100% 50% }
+    100% { background-position: 0% 50% }
+  }
+   
+  @keyframes rainbow {
+    0% { background-position: 0% 50% }
+    50% { background-position: 100% 50% }
+    100% { background-position: 0% 50% }
+  }
+
+
+.dz{
+  margin-top: 30px;
+  background-color: #000000;
+  width: 433px;
+  border-radius: 15px;
+  color: white;
+  box-shadow: 2px 3px 6px rgb(32, 32, 32);
+  display: inline-block;
+  
+  margin-left: 545px;
+}
+.sd{
+margin-left: 10px;
+font-size: 19px;
+  font-family: sans-serif;
+  line-height: 40px;
+  color: white;
+}
+a{
+  color: white;
+  text-decoration: none;
+  
+}
+a:hover{
+color: rgb(92, 217, 255);
+font-size: 20px;
+}
+  .n{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 40px;
+    font-family: fantasy;
+  }
+  
+  .reg{
+    margin-top: 20px;
+    font-size: 30px;
+font-family: sans-serif;
+font-weight: 600;
+margin-left: 40px;
+  }
+  button {
+    display: inline-block;
+    padding: 5px 5px;
+    background: rgb(92, 217, 255);
+    border: 2px solid #000; 
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    text-align: center;
+    margin-left: 200px;
+    width: 150px;
+    margin-top: 20px;
+  }
+.tt{
+  background: linear-gradient(to bottom right, rgb(252, 254, 255), rgb(166, 204, 232), rgb(101, 151, 178));
+  
+}
