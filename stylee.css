@@ -1,0 +1,44 @@
+.aa{
+   margin: 25% 25%;
+   width: 50%;
+}
+h1{
+    text-align: center;
+}
+.z8{
+    font-size: 20px;
+    text-align: center;
+    font-family: monospace;
+    color: crimson;
+}
+label{
+    color: black;
+}
+.tx{
+ margin-left: 20px;
+  text-align: left;
+  font-family: "Great Vibes", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    background: linear-gradient(45deg, #490b2d 33%, #bc0d62 66%, #d68aaf);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #0B2349;
+  display: table;
+}
+.nn{
+    text-align: center;
+    font-size: 6;
+    color: red;
+    font-weight: bold;
+}
+.ll{
+    text-align: center;
+    margin-top: 40px;
+}
+.z10{
+    margin: 30% 30%;
+    width: 40%;
+    margin-top: 0;
+}
