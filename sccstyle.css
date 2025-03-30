@@ -1,0 +1,139 @@
+.z1c{
+    FONT-STYLE: SMALL-CAPS; 
+    BACKGROUND: RED; 
+    PADDING-LEFT: 18PX;
+}
+
+.red{
+background-color: red;
+}
+
+.h1 {
+    color: RED;
+    TEXT-ALIGN: RIGHT;
+}
+
+code {
+    background: #c6c6c6;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.z5c {
+    background-color: #e5e6fa;
+    width: 400px;
+    height: 100px;
+    margin-left: 39%;
+}
+
+.z5CSS {
+    align-items: center;
+    color: purple;
+    text-shadow: 4px 2px 1px rgba(0, 0, 0, 0.5);
+    font-size: 40px;
+    margin: 0;
+}
+
+.z5Text {
+    margin: 0;
+    font-size: 30px;
+    color: rgb(144, 95, 153);
+}
+
+.z6c {
+    width: 600px;
+    height: 500px;
+    background-color: #00feff;
+    margin-left: 34%;
+}
+.z6Text {
+    font-size: 20px;
+}
+.z6Text::first-letter {
+    margin: 0;
+    color: green;
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 1;
+    float: left;
+}
+.z6Text {
+    margin: 0;
+}
+
+.z7c {
+    text-align: center;
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+}
+
+.z7Text {
+    font-size: 14px;
+    font-family: 'Monotype Corsiva', cursive;
+}
+
+.z7img {
+    width: 400px;
+    height: 200px;
+    border: 10px solid blue;
+}
+
+.table {
+    border: 10px solid blue;
+    border-collapse: collapse; 
+    width: 100%; 
+}
+
+.th {
+    background-color: yellow; 
+    color: red; 
+    border: 3px red dashed; 
+    padding: 10px; 
+}
+
+.td {
+    background-color: green; 
+    border: 2px solid yellow; 
+    padding: 10px; 
+}
+
+.z9c {
+    width: 750px;
+    height: 450px;
+    background-color: #ff66ff;
+    margin-left: 30%;
+}
+
+.photo {
+    width: 100px;
+    height: 100px;
+    margin-left: 43%;
+   border-top: dotted yellow 8px;
+   border-left: dotted blue 8px;
+   border-bottom: dotted red 8px;
+   border-right: dotted green 8px;
+}
+
+.table2 {
+    border: 5px solid crimson;
+    background-color: #cf9509;
+}
+
+.th2 {
+    border: 3px dashed crimson;
+    background-color: #c9956c;
+    color: blue;
+}
+
+.z9Table {
+    border: 5px solid crimson;
+    display: inline-block;
+    padding: 3px; 
+    margin-left: 32%;
+}
+
+.td2 {
+    background-color: #cf9509;
+    border: 4px solid crimson;
+}
